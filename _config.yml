@@ -6,4 +6,4 @@ author:
 description: "My Labs, Notes and Blogs about Network and Security"
 
 # Build settings
-remote_theme: jekyll/minima
+remote_theme: jekyll-theme-hacker
